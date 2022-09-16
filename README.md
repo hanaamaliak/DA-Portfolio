@@ -3,16 +3,16 @@ This repository contains projects I've done in Data Analytics or related topics.
 
 ## Contents
 
-### [Sentiment Analysis: Relocation of the Indonesia's Capital](https://github.com/hanaamaliak/analisis-sentimen)
-**Data Source:** [Github](https://github.com/varaah/analisis-sentimen-ikn/blob/main/data/twitterIKN-labelled_new.csv)
-**Website Deployment:** [Website Deployment using Streamlit](https://hanaamaliak-analisis-sentimen-main-project-k3hy4s.streamlitapp.com/)
-**Python Code:** [Sentiment Analysis Python Code](https://github.com/hanaamaliak/analisis-sentimen/blob/master/Analisis%20Sentimen%20Pemindahan%20Ibukota%20-%20Hana%20Amalia%20Kushandini.ipynb)
-**Streamlit Code:** [Sentiment Analysis Streamlit Code](https://github.com/hanaamaliak/analisis-sentimen/blob/master/main_project.py)
+### [Sentiment Analysis: Relocation of the Indonesia's Capital - Python](https://github.com/hanaamaliak/analisis-sentimen)
+**Data Source:** [Github](https://github.com/varaah/analisis-sentimen-ikn/blob/main/data/twitterIKN-labelled_new.csv)\
+**Website Deployment:** [Website Deployment using Streamlit](https://hanaamaliak-analisis-sentimen-main-project-k3hy4s.streamlitapp.com/)\
+**Python Code:** [Sentiment Analysis Python Code](https://github.com/hanaamaliak/analisis-sentimen/blob/master/Analisis%20Sentimen%20Pemindahan%20Ibukota%20-%20Hana%20Amalia%20Kushandini.ipynb)\
+**Streamlit Code:** [Sentiment Analysis Streamlit Code](https://github.com/hanaamaliak/analisis-sentimen/blob/master/main_project.py)\
 **Description:** This project's purpose is to predict whether the public opinion about the relocation of the nation's capital is positive or negative. The data used here is the public opinions on twitter, and every opinion are classified as a positive or negative opinion. The models used in this project to predict sentiment are RNN Model, LSTM Model, and GRU Model. After the models were trained and tested, I choose the best model to be deployed using Streamlit.
 
-### [Titanic Survival Prediction](https://github.com/hanaamaliak/DA-Portfolio/tree/master/Titanic%20Survival%20Prediction%20-%20Python)
-**Data Source:** [Kaggle](https://www.kaggle.com/competitions/titanic/data)
-**Code:** [Titanic Survival Prediction](https://github.com/hanaamaliak/DA-Portfolio/blob/master/Titanic%20Survival%20Prediction%20-%20Python/Titanic%20Survival%20Prediction%20-%20Python.ipynb)
+### [Titanic Survival Prediction - Python](https://github.com/hanaamaliak/DA-Portfolio/tree/master/Titanic%20Survival%20Prediction%20-%20Python)
+**Data Source:** [Kaggle](https://www.kaggle.com/competitions/titanic/data)\
+**Code:** [Titanic Survival Prediction](https://github.com/hanaamaliak/DA-Portfolio/blob/master/Titanic%20Survival%20Prediction%20-%20Python/Titanic%20Survival%20Prediction%20-%20Python.ipynb)\
 **Description:** The purpose of this project is to predict whether the passengers of Titanic would survive or not. There are 12 columns in the data, and one of the columns is a target or label that indicates 1 if the passengers survived and 0 if the passengers didn't survive. The other 11 columns are independent variables that affect the target data.
 
 ### [Covid Data Exploration - SQL](https://github.com/hanaamaliak/DA-Portfolio/tree/master/Covid%20Data%20Exploration%20-%20SQL)
